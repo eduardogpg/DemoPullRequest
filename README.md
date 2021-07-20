@@ -2,5 +2,5 @@
 
 __Añade tu nombre como nuevo colaborador__.
 
-* Eduardo Ismael
+* Eduardo Ismael García
 
